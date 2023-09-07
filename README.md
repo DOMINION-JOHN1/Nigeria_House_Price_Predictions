@@ -1,1 +1,17 @@
-"# Nigeria_House_Price_Predictions" 
+## INTRODUCTION
+Exploring the Nigerian house dataset, in this project I explored the dataset, cleaning it and finally built a Random Forest Rgegressor model to predict the price of a house based on the features in the dataset.
+
+This datasets contains Houses listings in Nigeria and their prices based on Location and other parameters.
+
+Datashape (24326, 8)
+
+Parameters:
+
+bedrooms -> number of bedrooms in the houses
+bathrooms -> number of bathrooms in the houses
+toilets -> number of toilets
+parking_space
+title -> house type
+town -> town in which the house is located
+state -> state within Nigeria in which the house is located and finally
+price -> the target column.
